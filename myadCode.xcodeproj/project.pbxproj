@@ -14,6 +14,9 @@
 		D2396C6D25B06CDC004C3600 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D2396C6C25B06CDC004C3600 /* Assets.xcassets */; };
 		D2396C7025B06CDC004C3600 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D2396C6E25B06CDC004C3600 /* LaunchScreen.storyboard */; };
 		D2396C7325B06CDC004C3600 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = D2396C7225B06CDC004C3600 /* main.m */; };
+		D2396C7B25B06CFD004C3600 /* test.txt in Resources */ = {isa = PBXBuildFile; fileRef = D2396C7A25B06CFD004C3600 /* test.txt */; };
+		D2396C8025B0A6A3004C3600 /* test2.txt in Resources */ = {isa = PBXBuildFile; fileRef = D2396C7F25B0A6A3004C3600 /* test2.txt */; };
+		D2396C8625B0AA6B004C3600 /* test3.txt in Resources */ = {isa = PBXBuildFile; fileRef = D2396C8525B0AA6B004C3600 /* test3.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +32,9 @@
 		D2396C6F25B06CDC004C3600 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D2396C7125B06CDC004C3600 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D2396C7225B06CDC004C3600 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		D2396C7A25B06CFD004C3600 /* test.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = test.txt; sourceTree = "<group>"; };
+		D2396C7F25B0A6A3004C3600 /* test2.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = test2.txt; sourceTree = "<group>"; };
+		D2396C8525B0AA6B004C3600 /* test3.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = test3.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +78,9 @@
 				D2396C6E25B06CDC004C3600 /* LaunchScreen.storyboard */,
 				D2396C7125B06CDC004C3600 /* Info.plist */,
 				D2396C7225B06CDC004C3600 /* main.m */,
+				D2396C7A25B06CFD004C3600 /* test.txt */,
+				D2396C7F25B0A6A3004C3600 /* test2.txt */,
+				D2396C8525B0AA6B004C3600 /* test3.txt */,
 			);
 			path = myadCode;
 			sourceTree = "<group>";
@@ -134,6 +143,9 @@
 			files = (
 				D2396C7025B06CDC004C3600 /* LaunchScreen.storyboard in Resources */,
 				D2396C6D25B06CDC004C3600 /* Assets.xcassets in Resources */,
+				D2396C8625B0AA6B004C3600 /* test3.txt in Resources */,
+				D2396C7B25B06CFD004C3600 /* test.txt in Resources */,
+				D2396C8025B0A6A3004C3600 /* test2.txt in Resources */,
 				D2396C6B25B06CD9004C3600 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
